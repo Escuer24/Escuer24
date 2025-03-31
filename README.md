@@ -2,9 +2,8 @@
 - 👀 I’m interested in software
 - 🌱 I’m currently learning software
 - 💞️ I’m looking to collaborate on software
-- 📫 How to reach me escuer21@gmail.com  
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 You can reach me at escuer21@gmail.com 
+- ⚡ Everything to do with the software is fun.
 
 <!---
 Escuer24/Escuer24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
